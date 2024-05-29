@@ -54,7 +54,7 @@ To build a linear regression model that predicts the demand for shared bikes wit
 ## Technologies Used
 ### Language and Library Used
 #### Language
-* Python v3
+* Python v3.11.5
 #### Numerical Analysis and Data Analysis
 * Numpy v1.24.3
 * Pandas v2.0.3
